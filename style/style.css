@@ -44,10 +44,11 @@
 .about-title{
       text-align: center;
     padding-top: 100px;
+    
 
 }
 .description2{
-    font-size: 20px;
+    font-size: 10px;
     margin-bottom: 15px;
     text-align: center;
     
@@ -78,6 +79,20 @@
     margin-bottom: 50px;
     position: relative;
 }
+.subscribe-contanier{
+    height:50vh;
+   background-image: url("../images/Rectangle\ 9.png");
+    text-align: center;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.subscribe-contanier h1{
+    text-align: center;
+
+}
+
 .lastpart{
     background-color: black;
     padding: 100px;
